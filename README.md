@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Desgin / Development
 - 🌱 I’m currently learning ... PHP, JavaScript, HTML, CSS, Node.js
 - 💞️ I’m looking to collaborate on ... Wordpress Development
-- 📫 How to reach me ... kingstondigitalmedia@gmail.com Instagram @jasonkingston
+- 📫 How to reach me ... kingstondigitalmedia@gmail.com kingstondigital.ca Instagram @jasonkingston
 
 <!---
 jasontking/jasontking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
