@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasontking
+- 👋 Hi, I’m Jason Kingston
 - 👀 I’m interested in ... Web Desgin / Development
 - 🌱 I’m currently learning ... PHP and Javascript
 - 💞️ I’m looking to collaborate on ... Wordpress Development
