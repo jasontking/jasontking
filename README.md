@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason Kingston
 - 👀 I’m interested in ... Web Desgin / Development
-- 🌱 I’m currently learning ... PHP and Javascript
+- 🌱 I’m currently learning ... PHP, JavaScript, HTML, CSS, Node.js
 - 💞️ I’m looking to collaborate on ... Wordpress Development
 - 📫 How to reach me ... kingstondigitalmedia@gmail.com Instagram @jasonkingston
 
